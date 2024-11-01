@@ -1,0 +1,80 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Universal Link in bio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-14 13:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.5.4\n"
+"X-Domain: universal-link-in-bio"
+
+#: universal-link-in-bio.php:127
+msgid "blog"
+msgstr ""
+
+#: universal-link-in-bio.php:137
+msgid "Do you like using this plugin?"
+msgstr ""
+
+#: universal-link-in-bio.php:126
+msgid "Empty redirects to home page"
+msgstr ""
+
+#: universal-link-in-bio.php:147
+msgid "Error"
+msgstr ""
+
+#: universal-link-in-bio.php:127
+msgid "Example"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://talbi-consept.com"
+msgstr ""
+
+#: universal-link-in-bio.php:137
+msgid "Let us a review ;)"
+msgstr ""
+
+#: universal-link-in-bio.php:130
+msgid "Link to put in your bio"
+msgstr ""
+
+#: universal-link-in-bio.php:114
+msgid "Plugin settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin to add a static Link in bio url to your website"
+msgstr ""
+
+#: universal-link-in-bio.php:126
+msgid "Redirect URL"
+msgstr ""
+
+#. Author of the plugin
+msgid "Talbi ConSept"
+msgstr ""
+
+#: universal-link-in-bio.php:116
+msgid ""
+"This plugin allows you to have a static url that you can put on your bio and "
+"it will redirect to the link specified bellow. You will never have to change "
+"the link in your bio !"
+msgstr ""
+
+#. Name of the plugin
+msgid "Universal Link in bio"
+msgstr ""
+
+#: universal-link-in-bio.php:91
+msgid "You don't have permissions"
+msgstr ""

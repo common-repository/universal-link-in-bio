@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Universal Link in bio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-14 13:24+0000\n"
+"PO-Revision-Date: 2021-05-14 13:35+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.5.5\n"
+"X-Domain: universal-link-in-bio"
+
+#: universal-link-in-bio.php:127
+msgid "blog"
+msgstr "مدونة"
+
+#: universal-link-in-bio.php:137
+msgid "Do you like using this plugin?"
+msgstr "هل تحب استخدام هاده الإضافة ؟"
+
+#: universal-link-in-bio.php:126
+msgid "Empty redirects to home page"
+msgstr "توجه إلى الصفحة الرئيسية إدا كانت فارغة"
+
+#: universal-link-in-bio.php:147
+msgid "Error"
+msgstr "خطأ"
+
+#: universal-link-in-bio.php:127
+msgid "Example"
+msgstr "مثال"
+
+#. URI of the plugin
+msgid "https://talbi-consept.com"
+msgstr "https://talbi-consept.com"
+
+#: universal-link-in-bio.php:137
+msgid "Let us a review ;)"
+msgstr "إترك لنا تعليق ؛)"
+
+#: universal-link-in-bio.php:130
+msgid "Link to put in your bio"
+msgstr "رابط لوضعه في bio"
+
+#: universal-link-in-bio.php:114
+msgid "Plugin settings"
+msgstr "إعدادات الإضافة"
+
+#. Description of the plugin
+msgid "Plugin to add a static Link in bio url to your website"
+msgstr "إضافة لوضع url تابت على bio إنطلاقاً من موقعك"
+
+#: universal-link-in-bio.php:126
+msgid "Redirect URL"
+msgstr "عنوان URL لإعادة التوجيه"
+
+#. Author of the plugin
+msgid "Talbi ConSept"
+msgstr "Talbi ConSept"
+
+#: universal-link-in-bio.php:116
+msgid ""
+"This plugin allows you to have a static url that you can put on your bio and "
+"it will redirect to the link specified bellow. You will never have to change "
+"the link in your bio !"
+msgstr ""
+"إضافة لوضع url تابت على bio إنطلاقاً من موقعك. لن تحتاج إلى إستبدال bio بعد "
+"الآن !"
+
+#. Name of the plugin
+msgid "Universal Link in bio"
+msgstr "Universal Link in bio"
+
+#: universal-link-in-bio.php:91
+msgid "You don't have permissions"
+msgstr "ليس لديك إذن"
